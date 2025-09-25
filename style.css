@@ -129,9 +129,9 @@ li:focus {
       grid-template-columns: repeat(7, 1fr);
   }
 
-  .container > :first-child {
-      grid-column: 1 / -1;
-  }
+  /*.container > :first-child {
+      grid-column: 1 / -1; 
+  }*/
 
   /* Steps 12 - 15: Update the grid-column property of the grid's children (where-needed)*/
 .accounts {
